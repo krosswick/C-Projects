@@ -1,0 +1,5 @@
+Array is: 
+ 2  3  4  5  6  7  8  9 
+Max number is: 9
+Minimum number is: 2
+Average number is: 5.50
